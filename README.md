@@ -2,6 +2,9 @@
 
 > A full-stack task management application that automatically categorizes tasks using the Eisenhower Matrix (Urgent-Important Matrix) methodology.
 
+## Deployment Link - https://schedule-manager-for-students.onrender.com/
+
+---
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-4.2+-green.svg)](https://www.djangoproject.com/)
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org/)
